@@ -34,7 +34,7 @@ def fizzbuzz(num)
   end
 end
 
-require 'pry'
+
 def calculator(operation, num1, num2)
   # your code here
   if operation == '+'
@@ -50,5 +50,5 @@ def calculator(operation, num1, num2)
     nil
   end
 end
-binding.pry
+
 
